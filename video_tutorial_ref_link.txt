@@ -1,5 +1,15 @@
 
 
-Django Rest Framework | How to Create a RESTful API Using Django
-	
-  REF Link: https://www.youtube.com/watch?v=ejJ-2oz4AgI
+1)  Django Rest Framework | How to Create a RESTful API Using Django
+    - REF Link : https://www.youtube.com/watch?v=ejJ-2oz4AgI
+
+2)  REST API Serializer JSON 
+    - REF Link : https://www.youtube.com/watch?v=V4NjlXiu5WI
+
+3) Nested serializer for Create and update data in Django Rest Framework
+    - REF Link : https://www.youtube.com/watch?v=EyMFf9O6E60 
+
+4) Introduction to Django Rest Framework (Basic API View) 
+    - REF Link : https://www.youtube.com/watch?v=I8AZVdNOppY
+
+ 

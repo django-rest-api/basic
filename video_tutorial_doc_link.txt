@@ -1,0 +1,4 @@
+
+1)  Django Rest Framework | API Guide
+    - REF Link : https://www.django-rest-framework.org/api-guide/requests/
+
